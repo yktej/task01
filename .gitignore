@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.syndicate
+.syndicate-config-dev
+target/
+**/target/
+/target/
+logs/
